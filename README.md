@@ -18,7 +18,7 @@ ai integration · application security
 | --- | --- |
 | **[Keng POS](https://github.com/NiKenguru/keng-releases)** | Windows kassasi: stol bo‘yicha buyurtmalar, chek chop etish va savdo hisobotlari. [Windows uchun yuklab olish](https://github.com/NiKenguru/keng-releases/releases/latest) |
 | **[Uzbekistan Demos](https://github.com/NiKenguru/uzbekistan-demos)** | FastAPI va JavaScript. Markaziy bank valyuta kurslari API’si va o‘zbekcha-ruscha bilimlar bazasi. |
-| **[Uzbek Text Workbench](https://github.com/NiKenguru/uzbek-text-workbench)** | O‘zbekcha matnni lotin va kirill yozuvlari orasida o‘girish uchun veb-interfeys va API. |
+| **[Uzbek Text Workbench](https://github.com/NiKenguru/uzbek-text-workbench)** | Yangi o‘zbek alifbosiga o‘tish: matnni ko‘rib chiqish, paketli migratsiya API’si va tekshiruv hisoboti. |
 | **[Uzbekistan Address API](https://github.com/NiKenguru/uzbekistan-address-api)** | Hududlar va tumanlar, uch tildagi nomlar va SOATO kodlari. |
 
 ## Men haqimda · About
