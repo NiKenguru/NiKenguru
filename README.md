@@ -8,6 +8,7 @@
 ```text
 $ whoami
 farrux / NiKenguru
+react · next.js · node.js · typescript
 python · javascript · rest api · postgresql
 ai integration · application security
 ```
@@ -23,17 +24,17 @@ ai integration · application security
 
 ## Men haqimda · About
 
-Python va JavaScript’da veb-ilovalar yarataman. REST API va PostgreSQL bilan ishlayman, AI funksiyalarini ilovalarga ulayman va mahsulot xavfsizligini tekshiraman.
+React, Next.js, Node.js va TypeScript bilan fullstack veb-ilovalar yarataman. Python va JavaScript’da ham ishlayman. REST API va PostgreSQL bilan ishlayman, AI funksiyalarini ilovalarga ulayman va mahsulot xavfsizligini tekshiraman.
 
 <details>
 <summary>Русский</summary>
 
-Fullstack-разработчик и AI Engineer из Намангана. Разрабатываю веб-приложения, работаю с REST API и PostgreSQL, интегрирую AI-функции и тестирую безопасность приложений.
+Fullstack-разработчик и AI Engineer из Намангана. Разрабатываю веб-приложения на React, Next.js, Node.js и TypeScript. Использую Python и JavaScript, работаю с REST API и PostgreSQL, интегрирую AI-функции и тестирую безопасность приложений.
 
 </details>
 <details>
 <summary>English</summary>
 
-Full-stack developer and AI engineer in Namangan, Uzbekistan. I build web applications, work with REST APIs and PostgreSQL, integrate AI features, and test application security.
+Full-stack developer and AI engineer in Namangan, Uzbekistan. I build full-stack web applications with React, Next.js, Node.js and TypeScript. I also use Python and JavaScript, work with REST APIs and PostgreSQL, integrate AI features, and test application security.
 
 </details>
