@@ -17,7 +17,7 @@ ai integration · application security
 | Project | What it does |
 | --- | --- |
 | **[Keng POS](https://github.com/NiKenguru/keng-releases)** | Windows kassasi: stol bo‘yicha buyurtmalar, chek chop etish va savdo hisobotlari. [Windows uchun yuklab olish](https://github.com/NiKenguru/keng-releases/releases/latest) |
-| **[Uzbekistan Demos](https://github.com/NiKenguru/NiKenguru.github.io/tree/portfolio/uzbekistan)** | FastAPI va JavaScript. Markaziy bank valyuta kurslari API’si va o‘zbekcha-ruscha bilimlar bazasi. |
+| **[Uzbekistan Demos](https://github.com/NiKenguru/uzbekistan-demos)** | FastAPI va JavaScript. Markaziy bank valyuta kurslari API’si va o‘zbekcha-ruscha bilimlar bazasi. |
 
 ## Men haqimda · About
 
