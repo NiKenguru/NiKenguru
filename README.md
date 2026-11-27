@@ -1,4 +1,4 @@
-<h1 align="center">Farrux Tuxtapulatov</h1>
+<h1 align="center">NiKenguru</h1>
 <p align="center"><strong>Fullstack Developer · AI Engineer</strong><br>Namangan, O‘zbekiston</p>
 <p align="center">
 <a href="https://namangan.hh.uz/resume/de9e4fb4ff117539f40039ed1f367845494142">Résumé · hh.uz</a> ·
@@ -7,7 +7,7 @@
 
 ```text
 $ whoami
-farrux / NiKenguru
+NiKenguru
 react · next.js · node.js · typescript
 python · javascript · rest api · postgresql
 ai integration · application security
